@@ -1,0 +1,27 @@
+username: sgxshi6
+periods:
+  startIn: 1
+  endIn: 876
+  startOut: 877
+  endOut: 2000
+ins:
+  short: 10.0
+  medium: 50.0
+  long: 200.0
+  series1: 1
+  series2: 0
+  series3: 1
+  series4: 1
+  profit: 2975.564
+  rank_on_out: 16.0
+out:
+  short: 5.0
+  medium: 100.0
+  long: 200.0
+  series1: 1
+  series2: 1
+  series3: 1
+  series4: 1
+  profit: 17733.08
+  rank_on_in: 47.0
+

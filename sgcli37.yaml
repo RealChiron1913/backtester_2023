@@ -1,0 +1,27 @@
+username: sgcli37
+periods:
+  startIn: 1
+  endIn: 779
+  startOut: 780
+  endOut: 2000
+ins:
+  short: 10.0
+  medium: 50.0
+  long: 200.0
+  series1: 1
+  series2: 1
+  series3: 1
+  series4: 1
+  profit: 2703.228
+  rank_on_out: 7.0
+out:
+  short: 5.0
+  medium: 100.0
+  long: 200.0
+  series1: 1
+  series2: 1
+  series3: 1
+  series4: 1
+  profit: 20511.872
+  rank_on_in: 58.0
+
